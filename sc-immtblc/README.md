@@ -1,6 +1,6 @@
 # Metadata column description of objects
 ## Dataset Overview
-The GEO repository contains processed single-cell RNA-seq data in Seurat object (.rds) and Anndata format (.h5ad).  
+The GEO repository (accession to be provided) contains processed single-cell RNA-seq data in Seurat object (.rds) and Anndata format (.h5ad).  
 Discovery cohort samples of pbmc_final include kidney transplant recipients (mRNA-1273 vaccine responders and non-responders) and healthy controls, 
 collected pre- and post-vaccination.
 
