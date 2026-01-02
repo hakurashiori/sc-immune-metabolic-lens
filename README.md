@@ -9,4 +9,5 @@ This repository contains scripts used to analyze 10x Genomics Chromium scRNA-seq
 
 ## Data Access
 
-RDS and AnnData objects will be made available via GEO (GSE accession pending).  
+Due to patient privacy and IRB restrictions, raw single-cell data are not publicly available.
+Processed objects (Seurat RDS and AnnData files) will be made available upon publication through controlled-access repositories or upon reasonable request, in accordance with institutional and ethical guidelines. 
