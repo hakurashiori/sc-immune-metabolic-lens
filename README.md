@@ -1,7 +1,7 @@
 # Single-cell immune-metabolic lens on immunocompromised settings
 
 Code for the single-cell transcriptomic analysis described in the paper:  
-**"A reversible innate metabolic barrier to human vaccine responsiveness."**
+**"mRNA vaccine nonresponse reveals a correctable innate metabolic barrier"**
 
 This repository contains scripts used to analyze 10x Genomics Chromium scRNA-seq data, focusing on monocyte metabolic rewiring and its role in vaccine non-responsiveness.
 
