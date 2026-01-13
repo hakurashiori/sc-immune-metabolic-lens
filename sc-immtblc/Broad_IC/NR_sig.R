@@ -11,14 +11,14 @@ library(pheatmap)
 library(reshape2)
 
 NR_genes <- c(
-  # NR cluster DEGs
+  # representative of OXPHOS
   "MT-ATP8", "MT-ATP6", "MT-CO1", "MT-CO2", "MT-CYB", 
   "MT-ND1", "MT-ND2", "MT-ND3", "MT-ND4", "MT-ND5", "MT-ND6", "MT-ND4L",
-  # repeated in every individual DEG
+  # DEG repeated in every individual
   'UBE2E1', 'OGDH', 'ILKAP', 'PTDSS2', 'CTRC', 'GNAL', 'PLAU', 'EPHX2', 'GSTA4',
   'GAPDH',
   'LILRB1', "ITGAM", 'CD4',
-  # NR co-expression module genes
+  # inflammatory module genes
   'PLAUR', 'HSPB1', 'RNASE2', 'NRG1', 'CMTM2', 'NR4A1', 'HMGB2',
   'FOXJ1', 'ITGA4', 'SMPD3', 'CD9', 'CD99', 'RPL13A', 'CH25H',
   'THBS1', 'NINJ1', 'TRPM1', 'ANXA1', 'TNFAIP6', 'RAC1', 'IL1B',
