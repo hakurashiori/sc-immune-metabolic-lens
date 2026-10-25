@@ -2,8 +2,10 @@
 
 Analysis code accompanying the manuscript:
 
-> **A pre-existing MT-ND3-linked OXPHOS-dominant monocyte state constrains vaccine responsiveness in immunocompromised patients**  
-> Zi-Yun Peng, Cheng-Hsu Chen, Chih-Le Lin, Hung-Ting Liao, Jing-Rong Wang, and Tai-Ming Ko.
+> **A preexisting MT-ND3–linked OXPHOS-dominant monocyte state constrains vaccine responsiveness in immunocompromised patients**  
+> Zi-Yun Peng, Cheng-Hsu Chen, Chih-Le Lin, Hung-Ting Liao, Jing-Rong Wang, and Tai-Ming Ko.  
+> *JCI Insight.* 2026;11(22):e208787. [DOI: 10.1172/jci.insight.208787](https://doi.org/10.1172/jci.insight.208787)  
+> **Status:** Accepted October 9, 2026; publication scheduled for November 23, 2026.
 
 This repository contains R and Python scripts for single-cell transcriptomic, immunometabolic, and immune-repertoire analyses of vaccine responsiveness. The study centers on the **pre-vaccination monocyte state** associated with subsequent serological non-response in kidney transplant recipients (KTRs), with analyses of longitudinal samples, independent vaccine-response cohorts, and other immunocompromised settings.
 
@@ -79,7 +81,9 @@ The reported NR-associated monocyte signature is an **observational, pre-vaccina
 
 If you use this repository, please cite the accompanying manuscript:
 
-**Peng Z-Y, Chen C-H, Lin C-L, Liao H-T, Wang J-R, Ko T-M.** *A pre-existing MT-ND3-linked OXPHOS-dominant monocyte state constrains vaccine responsiveness in immunocompromised patients.* Manuscript under editorial consideration. Please use the final journal citation when available.
+**Peng Z-Y, Chen C-H, Lin C-L, Liao H-T, Wang J-R, Ko T-M.** A preexisting MT-ND3–linked OXPHOS-dominant monocyte state constrains vaccine responsiveness in immunocompromised patients. *JCI Insight.* 2026;11(22):e208787. https://doi.org/10.1172/jci.insight.208787
+
+*In press: the journal proof lists November 23, 2026 as the scheduled publication date.*
 
 ## License
 
